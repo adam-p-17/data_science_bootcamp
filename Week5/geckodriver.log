@@ -1,0 +1,1231 @@
+1540733536501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R2xI6W30tayQ"
+
+(firefox:12314): Gtk-WARNING **: 14:32:17.065: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12314): Gtk-WARNING **: 14:32:17.065: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540733538205	Marionette	INFO	Listening on port 46767
+1540733538308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540733542318	Marionette	INFO	Stopped listening on port 46767
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0010,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12314, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12314, Gecko_IOThread] WARNING: pipe error (92): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540733749339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rPqSHIirUgV8"
+
+(firefox:12560): Gtk-WARNING **: 14:35:49.915: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12560): Gtk-WARNING **: 14:35:49.915: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540733751002	Marionette	INFO	Listening on port 42165
+1540733751045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540733756051	Marionette	INFO	Stopped listening on port 42165
+[Parent 12560, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12560, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734312524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LhFOzNqY8wkj"
+
+(firefox:12977): Gtk-WARNING **: 14:45:13.124: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12977): Gtk-WARNING **: 14:45:13.124: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734314253	Marionette	INFO	Listening on port 45011
+1540734314339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540734318274	Marionette	INFO	Stopped listening on port 45011
+[Parent 12977, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12977, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734486586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2vCHVJz6iJrB"
+
+(firefox:13279): Gtk-WARNING **: 14:48:07.161: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13279): Gtk-WARNING **: 14:48:07.161: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734488265	Marionette	INFO	Listening on port 36361
+1540734488298	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13279, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13279, Gecko_IOThread] WARNING: pipe error (119): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734511969	Marionette	INFO	Stopped listening on port 36361
+1540734823356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p90Y41Ukkw3G"
+
+(firefox:13878): Gtk-WARNING **: 14:53:43.954: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13878): Gtk-WARNING **: 14:53:43.954: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734825005	Marionette	INFO	Listening on port 46375
+1540734825083	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13878, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13878, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734845500	Marionette	INFO	Stopped listening on port 46375
+1540734900089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Wlv873ZQai5"
+
+(firefox:14151): Gtk-WARNING **: 14:55:00.694: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14151): Gtk-WARNING **: 14:55:00.694: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734901838	Marionette	INFO	Listening on port 35659
+1540734901897	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14151, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14151, Gecko_IOThread] WARNING: pipe error (79): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734929574	Marionette	INFO	Stopped listening on port 35659
+1540734958864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3vsKoAdMYNP0"
+
+(firefox:14374): Gtk-WARNING **: 14:55:59.409: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14374): Gtk-WARNING **: 14:55:59.409: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734960496	Marionette	INFO	Listening on port 45699
+1540734960574	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14374, Gecko_IOThread] WARNING: pipe error (86): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14374, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734970239	Marionette	INFO	Stopped listening on port 45699
+1540735115357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GrIWOL36gWH1"
+
+(firefox:14630): Gtk-WARNING **: 14:58:35.908: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14630): Gtk-WARNING **: 14:58:35.908: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735116967	Marionette	INFO	Listening on port 35531
+1540735117074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735226691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sxcGHSvxAE4b"
+
+(firefox:14856): Gtk-WARNING **: 15:00:27.240: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14856): Gtk-WARNING **: 15:00:27.240: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735228284	Marionette	INFO	Listening on port 33763
+1540735228297	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14630, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14856, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14630, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735236402	Marionette	INFO	Stopped listening on port 35531
+1540735236459	Marionette	INFO	Stopped listening on port 33763
+1540735264645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5aW3UvKgs0mB"
+
+(firefox:15083): Gtk-WARNING **: 15:01:05.217: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15083): Gtk-WARNING **: 15:01:05.217: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735266310	Marionette	INFO	Listening on port 36919
+1540735266357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735535320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wnehfG5YaeCT"
+
+(firefox:15397): Gtk-WARNING **: 15:05:35.908: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15397): Gtk-WARNING **: 15:05:35.908: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735536961	Marionette	INFO	Listening on port 37539
+1540735537027	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container.editor is undefined
+Full stack: showNode/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js:1222:7
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11
+
+*************************
+console.error: (new TypeError("container.editor is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js", 1222))
+1540735597598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TZqg4jwzy9zd"
+
+(firefox:15614): Gtk-WARNING **: 15:06:38.163: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15614): Gtk-WARNING **: 15:06:38.163: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735599200	Marionette	INFO	Listening on port 40013
+1540735599210	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15397, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15397, Gecko_IOThread] WARNING: pipe error (92): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735616950	Marionette	INFO	Stopped listening on port 37539
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15083, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15083, Gecko_IOThread] WARNING: pipe error (99): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735618984	Marionette	INFO	Stopped listening on port 36919
+[Parent 15614, Gecko_IOThread] WARNING: pipe error (150): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735741358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qdochyC6dXmh"
+
+(firefox:16153): Gtk-WARNING **: 15:09:01.934: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16153): Gtk-WARNING **: 15:09:01.934: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735742941	Marionette	INFO	Listening on port 45475
+1540735742968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735904572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AUGtyTAJBQ9t"
+
+(firefox:16443): Gtk-WARNING **: 15:11:45.133: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16443): Gtk-WARNING **: 15:11:45.133: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735906166	Marionette	INFO	Listening on port 38273
+1540735906178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735910357	Marionette	INFO	Stopped listening on port 38273
+[Parent 16443, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16153, Gecko_IOThread] WARNING: pipe error (97): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15614, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16153, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735912653	Marionette	INFO	Stopped listening on port 45475
+1540735912660	Marionette	INFO	Stopped listening on port 40013
+1540736097167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pdpNrxMoCQwb"
+
+(firefox:16681): Gtk-WARNING **: 15:14:57.753: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16681): Gtk-WARNING **: 15:14:57.753: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540736098838	Marionette	INFO	Listening on port 39853
+1540736098879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540736101003	Marionette	INFO	Stopped listening on port 39853
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16681, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16681, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540736133442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b0sRx81gEnoe"
+
+(firefox:16894): Gtk-WARNING **: 15:15:34.024: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16894): Gtk-WARNING **: 15:15:34.024: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540736135136	Marionette	INFO	Listening on port 46509
+1540736135149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540736137411	Marionette	INFO	Stopped listening on port 46509
+[Parent 16894, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16894, Gecko_IOThread] WARNING: pipe error (97): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16894, Gecko_IOThread] WARNING: pipe error (121): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737280671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UPxg9yP9P9TD"
+
+(firefox:17186): Gtk-WARNING **: 15:34:41.286: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17186): Gtk-WARNING **: 15:34:41.286: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737282396	Marionette	INFO	Listening on port 46591
+1540737282484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540737283974	Marionette	INFO	Stopped listening on port 46591
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17186, Gecko_IOThread] WARNING: pipe error (92): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17186, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737288601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nnjfNMbI74KL"
+
+(firefox:17403): Gtk-WARNING **: 15:34:49.163: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17403): Gtk-WARNING **: 15:34:49.163: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737290232	Marionette	INFO	Listening on port 34179
+1540737290328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540737291511	Marionette	INFO	Stopped listening on port 34179
+[Parent 17403, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3000A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+1540737305044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z5ZChY8bAQBk"
+
+(firefox:17620): Gtk-WARNING **: 15:35:05.619: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17620): Gtk-WARNING **: 15:35:05.619: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737306668	Marionette	INFO	Listening on port 42611
+1540737306754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540737309973	Marionette	INFO	Stopped listening on port 42611
+[Parent 17620, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737324534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j3yaPXSe4wXl"
+
+(firefox:17833): Gtk-WARNING **: 15:35:25.092: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17833): Gtk-WARNING **: 15:35:25.092: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737326141	Marionette	INFO	Listening on port 39121
+1540737326241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540737334556	Marionette	INFO	Stopped listening on port 39121
+[Parent 17833, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737596621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ASePmu2scMqs"
+
+(firefox:18234): Gtk-WARNING **: 15:39:57.222: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18234): Gtk-WARNING **: 15:39:57.222: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737598277	Marionette	INFO	Listening on port 38373
+1540737598336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18234, Gecko_IOThread] WARNING: pipe error (70): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18234, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737602948	Marionette	INFO	Stopped listening on port 38373
+1540737607906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LhYLLHik9CUN"
+
+(firefox:18450): Gtk-WARNING **: 15:40:08.476: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18450): Gtk-WARNING **: 15:40:08.476: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737609556	Marionette	INFO	Listening on port 42981
+1540737609616	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18450, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18450, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737612849	Marionette	INFO	Stopped listening on port 42981
+1540737893197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UyBkXEc7R6Sk"
+
+(firefox:18724): Gtk-WARNING **: 15:44:53.780: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18724): Gtk-WARNING **: 15:44:53.780: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737894847	Marionette	INFO	Listening on port 41185
+1540737894914	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18836): dconf-WARNING **: 15:44:56.037: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540737923342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z7s4Oq7BoYVs"
+
+(firefox:18939): Gtk-WARNING **: 15:45:23.955: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18939): Gtk-WARNING **: 15:45:23.955: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737925007	Marionette	INFO	Listening on port 34585
+1540737925050	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19050): dconf-WARNING **: 15:45:26.162: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 18724, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18724, Gecko_IOThread] WARNING: pipe error (97): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18939, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18939, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540737932246	Marionette	INFO	Stopped listening on port 41185
+1540737932282	Marionette	INFO	Stopped listening on port 34585
+1540737983524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dx2a3zbB1X1N"
+
+(firefox:19160): Gtk-WARNING **: 15:46:24.090: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19160): Gtk-WARNING **: 15:46:24.090: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540737985177	Marionette	INFO	Listening on port 36209
+1540737985253	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19160, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19160, Gecko_IOThread] WARNING: pipe error (133): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738002168	Marionette	INFO	Stopped listening on port 36209
+1540738009005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WtIOXDmPctcw"
+
+(firefox:19480): Gtk-WARNING **: 15:46:49.563: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19480): Gtk-WARNING **: 15:46:49.563: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738010644	Marionette	INFO	Listening on port 35691
+1540738010723	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19596): dconf-WARNING **: 15:46:51.784: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 19480, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19480, Gecko_IOThread] WARNING: pipe error (97): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738015874	Marionette	INFO	Stopped listening on port 35691
+1540738257119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c8wcvCZOecpi"
+
+(firefox:20011): Gtk-WARNING **: 15:50:57.718: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20011): Gtk-WARNING **: 15:50:57.719: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738258832	Marionette	INFO	Listening on port 37767
+1540738258925	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20123): dconf-WARNING **: 15:51:00.027: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738311079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ereS8o2do8gN"
+
+(firefox:20221): Gtk-WARNING **: 15:51:51.650: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20221): Gtk-WARNING **: 15:51:51.650: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738312681	Marionette	INFO	Listening on port 34503
+1540738312691	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20335): dconf-WARNING **: 15:51:53.781: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 20011, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20221, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20011, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738323681	Marionette	INFO	Stopped listening on port 37767
+1540738323734	Marionette	INFO	Stopped listening on port 34503
+1540738354095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v7weuOm9zSyt"
+
+(firefox:20443): Gtk-WARNING **: 15:52:34.653: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20443): Gtk-WARNING **: 15:52:34.653: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738355716	Marionette	INFO	Listening on port 42297
+1540738355807	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20558): dconf-WARNING **: 15:52:36.879: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738413137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s0Ill9faLOPe"
+
+(firefox:20658): Gtk-WARNING **: 15:53:33.690: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20658): Gtk-WARNING **: 15:53:33.690: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738414713	Marionette	INFO	Listening on port 34563
+1540738414745	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20771): dconf-WARNING **: 15:53:35.830: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 20443, Gecko_IOThread] WARNING: pipe error (92): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20443, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738432578	Marionette	INFO	Stopped listening on port 42297
+1540738432673	Marionette	INFO	Stopped listening on port 34563
+1540738449132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fQGmK8vxE3y2"
+
+(firefox:20882): Gtk-WARNING **: 15:54:09.747: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20882): Gtk-WARNING **: 15:54:09.747: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738450852	Marionette	INFO	Listening on port 42219
+1540738450948	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20997): dconf-WARNING **: 15:54:12.163: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738457687	Marionette	INFO	Stopped listening on port 42219
+[Parent 20882, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738535387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yrGb5XxuELiz"
+
+(firefox:21143): Gtk-WARNING **: 15:55:35.959: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21143): Gtk-WARNING **: 15:55:35.959: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738536999	Marionette	INFO	Listening on port 46461
+1540738537114	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21248): dconf-WARNING **: 15:55:38.181: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738543716	Marionette	INFO	Stopped listening on port 46461
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 21143, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738570144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fNks5Li53KBd"
+
+(firefox:21349): Gtk-WARNING **: 15:56:10.711: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21349): Gtk-WARNING **: 15:56:10.711: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738571860	Marionette	INFO	Listening on port 41167
+1540738571952	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21464): dconf-WARNING **: 15:56:13.050: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738583576	Marionette	INFO	Stopped listening on port 41167
+[Parent 21349, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
